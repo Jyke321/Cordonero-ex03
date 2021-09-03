@@ -1,5 +1,10 @@
 package exercise03;
 
+/*
+ *  UCF COP3330 Fall 2021 Assignment 1 Solution
+ *  Copyright 2021 Jacob Cordonero
+ */
+
 import java.util.Scanner;
 
 public class Solution03 {
